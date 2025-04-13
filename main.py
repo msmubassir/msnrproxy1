@@ -50,7 +50,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>Universal Proxy Browser</h1>
+            <h1>MSNR Proxy Site</h1>
             <div class="nav-buttons">
                 <button class="nav-btn" onclick="goBack()">← Back</button>
                 <button class="nav-btn" onclick="goForward()">→ Forward</button>
